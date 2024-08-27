@@ -33,9 +33,3 @@ O **Winter Store BOT** é uma aplicação desenvolvida em **JavaScript** utiliza
 
 - **Node.js**: Requer uma versão compatível para garantir a execução do bot.
 - **Discord.js 11.5.1**: Biblioteca essencial para a interação com a API do Discord.
-
-## Licença e Contribuições
-
-O projeto está licenciado sob a Licença MIT. Contribuições são bem-vindas e podem ser feitas através de pull requests ou relatórios de problemas.
-
----
